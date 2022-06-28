@@ -1,0 +1,38 @@
+ <!DOCTYPE html>
+ <html>
+    <head>
+         <title>my web</title>
+</head>
+<body>
+    <h1>My name is Waleed</h1>  =
+    <h2>i m reading web course</h2>  
+    <h3>i m creating a web page</h3>  
+    <h4>My instructor name is MAM mehr un nisa</h4>  
+    <h5>Heading no. 5</h5>  
+    <h6>Heading no. 6</h6>
+    
+        <p style="text-align: center;"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the i
+            ndustry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a t
+            ype specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentiall
+            y unchanged. .</p>
+<a href="https://www.google.com/"   >google</a>
+
+<img src="web.jpg" alt="pic_web"style="width:500px;height:600px;">
+<body bgcolor="orange">
+    <body text="blue">
+        <hr color="red"size="4"width="50%"
+<html>
+    <head>
+        <title>HTML lists</title>
+        </head><head><body>
+            <ul type="square">
+                <li>punjab</li>
+                <li>KPK</li>
+                <li> Balochistan</li>
+        </body></head>
+</html>    
+
+</body>
+    </html>
+
+    
